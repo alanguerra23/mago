@@ -1,0 +1,94 @@
+{
+    "1230": {
+        "idproduto": "1230",
+        "nome": "Nada",
+        "desc": "Sem descrição ainda...",
+        "preco": 0.1,
+        "roleid": "1137139304448139324",
+        "expiration": 11,
+        "conta": [
+            "Jwfiq"
+        ],
+        "expirationSeconds": "0.001"
+    },
+    "diaria": {
+        "idproduto": "diaria",
+        "nome": "KEY DIARIA",
+        "desc": "Key diaria",
+        "preco": 0.2,
+        "roleid": "1137139304448139324",
+        "expiration": 0.001,
+        "conta": [
+            "asdas",
+            "asd",
+            ".limpar"
+        ],
+        "banner": "https://cdn.discordapp.com/attachments/1114945789882544148/1135280318534926476/rZpWiLq.gif",
+        "mensal": {
+            "idproduto": "mensal",
+            "nome": "Key acesso mensal",
+            "desc": "Sem descrição ainda...",
+            "preco": 0.2,
+            "roleid": "1103087698962558986",
+            "expiration": 30,
+            "conta": [
+                "123123",
+                "123123"
+            ]
+        },
+        "trimestral": {
+            "idproduto": "trimestral",
+            "nome": "Sem nome ainda...",
+            "desc": "Sem descrição ainda...",
+            "preco": "10",
+            "roleid": "1115055993928290316",
+            "expiration": 90,
+            "conta": []
+        },
+        "semestral": {
+            "idproduto": "semestral",
+            "nome": "Sem nome ainda...",
+            "desc": "Sem descrição ainda...",
+            "preco": "10",
+            "roleid": "1115055993928290316",
+            "expiration": 180,
+            "conta": []
+        },
+        "anual": {
+            "idproduto": "anual",
+            "nome": "Sem nome ainda...",
+            "desc": "Sem descrição ainda...",
+            "preco": "10",
+            "roleid": "1115055993928290316",
+            "expiration": 365,
+            "conta": []
+        },
+        "vitalicio": {
+            "idproduto": "vitalicio",
+            "nome": "Sem nome ainda...",
+            "desc": "Sem descrição ainda...",
+            "preco": "10",
+            "roleid": "1115055993928290316",
+            "expiration": 0,
+            "conta": []
+        }
+    },
+    "novarole": {
+        "idproduto": "novarole",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "roleid": "12309123",
+        "expiration": 100,
+        "conta": []
+    },
+    "fdp1": {
+        "idproduto": "fdp1",
+        "nome": "Sem nome ainda...",
+        "desc": "Sem descrição ainda...",
+        "preco": "10",
+        "roleid": "12309123",
+        "expirationSeconds": "100",
+        "conta": []
+    }
+}

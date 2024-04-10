@@ -1,0 +1,792 @@
+{
+    "942420329302163": {
+        "id": "942420329302163",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "domingo, 30 de julho de 2023 às 18:39",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.01",
+        "entrid": "Andamento"
+    },
+    "389895675328207": {
+        "id": "389895675328207",
+        "status": "Reembolsado",
+        "userid": "1010991472398573600",
+        "dataid": "domingo, 30 de julho de 2023 às 18:41",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "• Z6WDTXVU"
+    },
+    "96548222771281": {
+        "id": "96548222771281",
+        "status": "Processando",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:06",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "788713028145224": {
+        "id": "788713028145224",
+        "status": "Processando",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:14",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "700917984761747": {
+        "id": "700917984761747",
+        "status": "Pendente (2)",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:21",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "670018013918646": {
+        "id": "670018013918646",
+        "status": "Processando",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:24",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "905664702775360": {
+        "id": "905664702775360",
+        "status": "Processando",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:27",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "691441881716301": {
+        "id": "691441881716301",
+        "status": "Pendente (1)",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:32",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "867769245864824": {
+        "id": "867769245864824",
+        "status": "Concluido",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:33",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "567788866877421": {
+        "id": "567788866877421",
+        "status": "Pendente (2)",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:33",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "105667626073843": {
+        "id": "105667626073843",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:36",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "•  2037D9ZT"
+    },
+    "773152652915359": {
+        "id": "773152652915359",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:43",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "123791281411367": {
+        "id": "123791281411367",
+        "status": "Pendente (2)",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:45",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "1970907776122": {
+        "id": "1970907776122",
+        "status": "Concluido",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:46",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "563232932867868": {
+        "id": "563232932867868",
+        "status": "Concluido",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:51",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "615318694763492": {
+        "id": "615318694763492",
+        "status": "Concluido",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 02:55",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "91827837501839": {
+        "id": "91827837501839",
+        "status": "Concluido",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 03:03",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "19985392810088": {
+        "id": "19985392810088",
+        "status": "Concluido",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 03:12",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "388237774736159": {
+        "id": "388237774736159",
+        "status": "Concluido",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 03:15",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "88599926334601": {
+        "id": "88599926334601",
+        "status": "Reembolsado",
+        "userid": "1034159143285686313",
+        "dataid": "sábado, 5 de agosto de 2023 às 03:17",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "                                         "
+    },
+    "62517162088936": {
+        "id": "62517162088936",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 03:32",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "190831511584112": {
+        "id": "190831511584112",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 03:52",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "759726556452980": {
+        "id": "759726556452980",
+        "status": "Pendente (2)",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 03:59",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "633101419222815": {
+        "id": "633101419222815",
+        "status": "Reembolsado",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:00",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "368312894800440": {
+        "id": "368312894800440",
+        "status": "Pendente (2)",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:08",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "779801715867921": {
+        "id": "779801715867921",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:08",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "226517310781896": {
+        "id": "226517310781896",
+        "status": "Reembolsado",
+        "userid": "628805847363092480",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:15",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "479024389914754": {
+        "id": "479024389914754",
+        "status": "Pendente (2)",
+        "userid": "628805847363092480",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:23",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "858558215067076": {
+        "id": "858558215067076",
+        "status": "Pendente (2)",
+        "userid": "628805847363092480",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:26",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "390590575574036": {
+        "id": "390590575574036",
+        "status": "Concluido",
+        "userid": "628805847363092480",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:27",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "851898786046880": {
+        "id": "851898786046880",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:33",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "307092462349981": {
+        "id": "307092462349981",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:36",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "174612664352408": {
+        "id": "174612664352408",
+        "status": "Concluido",
+        "userid": "628805847363092480",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:43",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "775574212071341": {
+        "id": "775574212071341",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:47",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "                                           }"
+    },
+    "693070179992778": {
+        "id": "693070179992778",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:52",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.3",
+        "entrid": "Andamento"
+    },
+    "52472975973159": {
+        "id": "52472975973159",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "sábado, 5 de agosto de 2023 às 04:58",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "608014292492242": {
+        "id": "608014292492242",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "domingo, 6 de agosto de 2023 às 03:18",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.3",
+        "entrid": "[1:57 AM]     at WebSocket.onMessage (/application/node_modules/ws/lib/event-target.js:209:9)"
+    },
+    "69632499378326": {
+        "id": "69632499378326",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "domingo, 6 de agosto de 2023 às 03:33",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.3",
+        "entrid": "Andamento"
+    },
+    "676904353838774": {
+        "id": "676904353838774",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "domingo, 6 de agosto de 2023 às 03:33",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.3",
+        "entrid": "Andamento"
+    },
+    "41298500102618": {
+        "id": "41298500102618",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "domingo, 6 de agosto de 2023 às 23:00",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.1",
+        "entrid": "Andamento"
+    },
+    "129673534076514": {
+        "id": "129673534076514",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "domingo, 6 de agosto de 2023 às 23:05",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "566840305342772": {
+        "id": "566840305342772",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "domingo, 6 de agosto de 2023 às 23:16",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "657178341936706": {
+        "id": "657178341936706",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "domingo, 6 de agosto de 2023 às 23:43",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "322314504788851": {
+        "id": "322314504788851",
+        "status": "Concluido",
+        "userid": "628805847363092480",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 00:01",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "831532092265482": {
+        "id": "831532092265482",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 00:35",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "335177123260128": {
+        "id": "335177123260128",
+        "status": "Concluido",
+        "userid": "176118838234972160",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 02:04",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "• O8624T0O"
+    },
+    "605155858299831": {
+        "id": "605155858299831",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 02:34",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "• LFL1FWGT"
+    },
+    "836310455640478": {
+        "id": "836310455640478",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 03:56",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "373128194407294": {
+        "id": "373128194407294",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 03:56",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "96507974510803": {
+        "id": "96507974510803",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 03:56",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "619032965191585": {
+        "id": "619032965191585",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:00",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "717747989270615": {
+        "id": "717747989270615",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:05",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "958765547601114": {
+        "id": "958765547601114",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:08",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "942284226444072": {
+        "id": "942284226444072",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:10",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "428157663903828": {
+        "id": "428157663903828",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:12",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "238664240780090": {
+        "id": "238664240780090",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:27",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "374917855753559": {
+        "id": "374917855753559",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:30",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "590081027160610": {
+        "id": "590081027160610",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:46",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "587537330504343": {
+        "id": "587537330504343",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:50",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "209376926944746": {
+        "id": "209376926944746",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:52",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "977342171309678": {
+        "id": "977342171309678",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 04:54",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "202837392703136": {
+        "id": "202837392703136",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 12:04",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "468517619553369": {
+        "id": "468517619553369",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "segunda-feira, 7 de agosto de 2023 às 15:21",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "320875857645092": {
+        "id": "320875857645092",
+        "status": "Concluido",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 00:28",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "931139434325852": {
+        "id": "931139434325852",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:24",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "876727645084187": {
+        "id": "876727645084187",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:34",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "455311807254689": {
+        "id": "455311807254689",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:35",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "338752241001802": {
+        "id": "338752241001802",
+        "status": "Pendente (1)",
+        "userid": "1034159143285686313",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:35",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "138556600226848": {
+        "id": "138556600226848",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:36",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "314626058121062": {
+        "id": "314626058121062",
+        "status": "Concluido",
+        "userid": "180965341277454337",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:40",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "69807577107756": {
+        "id": "69807577107756",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:51",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "181768816870484": {
+        "id": "181768816870484",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:51",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "596950679132623": {
+        "id": "596950679132623",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:55",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "516825259260757": {
+        "id": "516825259260757",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:59",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "318266400281621": {
+        "id": "318266400281621",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "terça-feira, 8 de agosto de 2023 às 23:59",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "228201031575468": {
+        "id": "228201031575468",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "quarta-feira, 9 de agosto de 2023 às 00:01",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "687931594697274": {
+        "id": "687931594697274",
+        "status": "Pendente (1)",
+        "userid": "1010991472398573600",
+        "dataid": "quarta-feira, 9 de agosto de 2023 às 00:01",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "692719950224783": {
+        "id": "692719950224783",
+        "status": "Pendente (2)",
+        "userid": "1010991472398573600",
+        "dataid": "quarta-feira, 9 de agosto de 2023 às 00:03",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    },
+    "559367793832529": {
+        "id": "559367793832529",
+        "status": "Pendente (2)",
+        "userid": "1010991472398573600",
+        "dataid": "quarta-feira, 9 de agosto de 2023 às 00:07",
+        "nomeid": "KEY DIARIA",
+        "qtdid": "1",
+        "precoid": "0.2",
+        "entrid": "Andamento"
+    }
+}
